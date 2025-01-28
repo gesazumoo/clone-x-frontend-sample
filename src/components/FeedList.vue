@@ -5,7 +5,7 @@
         <div class="feed-content">{{ i }}</div>
         <button class="feed-delete-button">X</button>
       </div>
-      <div class="feed-name">김유저</div>
+      <div class="feed-name">김유져</div>
     </div>
   </div>
 </template>

@@ -55,7 +55,7 @@ export default {
 };
 </script>
 
-<style scope>
+<style scoped>
 .title {
   margin-top: 10px;
   margin-bottom: 10px;
